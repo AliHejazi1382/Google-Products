@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../remote/server.dart';
+
 const Map<String, Product> kDummyData = {
   '0': Product(
     id: '0',
