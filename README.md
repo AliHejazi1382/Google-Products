@@ -1,16 +1,11 @@
-# google_product
+# Google Product
 
-A new Flutter project.
+Google Product is a sample built of [Flutter](https://https://flutter.dev/)  .
 
-## Getting Started
+There is a widget in Flutter called InheritedWidget that make state handling easy in flutter development.
 
-This project is a starting point for a Flutter application.
+In this sample I use that to make this sample app!
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
